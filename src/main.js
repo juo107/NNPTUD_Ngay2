@@ -110,5 +110,3 @@ console.log("\nCâu 10: Tên sản phẩm đang bán và còn hàng:");
 console.log(getAvailableProductNames(products));
 
 console.log("\n========================================");
-
-//Nguyễn Quang Vinh - 2280603698
